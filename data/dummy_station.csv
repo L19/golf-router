@@ -1,0 +1,11 @@
+pref_code,pref_name,station_code,station_name,station_yomi,station_note,station_lat,station_lon,line_code,line_name,order,company_code,c.company_name
+1,Prefecture 1,100,Station 1,Station Yomi 1,Note 1,35.12345,139.67890,L1,Line 1,1,C1,Company 1
+2,Prefecture 2,200,Station 2,Station Yomi 2,Note 2,35.23456,139.78901,L2,Line 2,2,C2,Company 2
+3,Prefecture 3,300,Station 3,Station Yomi 3,Note 3,35.34567,139.89012,L3,Line 3,3,C3,Company 3
+4,Prefecture 4,400,Station 4,Station Yomi 4,Note 4,35.45678,139.90123,L4,Line 4,4,C4,Company 4
+5,Prefecture 5,500,Station 5,Station Yomi 5,Note 5,35.56789,139.01234,L5,Line 5,5,C5,Company 5
+6,Prefecture 6,600,Station 6,Station Yomi 6,Note 6,35.67890,139.12345,L6,Line 6,6,C6,Company 6
+7,Prefecture 7,700,Station 7,Station Yomi 7,Note 7,35.78901,139.23456,L7,Line 7,7,C7,Company 7
+8,Prefecture 8,800,Station 8,Station Yomi 8,Note 8,35.89012,139.34567,L8,Line 8,8,C8,Company 8
+9,Prefecture 9,900,Station 9,Station Yomi 9,Note 9,35.90123,139.45678,L9,Line 9,9,C9,Company 9
+10,Prefecture 10,1000,Station 10,Station Yomi 10,Note 10,35.01234,139.56789,L10,Line 10,10,C10,Company 10
